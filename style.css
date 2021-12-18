@@ -1,0 +1,35 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: orange;
+    font-size: 20px;
+    color: white;
+}
+
+
+.quem-somos {
+
+    text-transform: capitalize;
+    
+}
+
+.padding {
+    padding-top: 10px;
+    padding-bottom: 50px;
+
+}
+.servicos ul{
+    list-style: none;
+    display: inline-block;
+
+}
+.servicos h3{
+    text-transform: capitalize;
+}
+
+.rodape{
+    font-size: 12px;
+    text-transform: uppercase;
+    color:black;
+    padding-left: 10px;
+
+}
